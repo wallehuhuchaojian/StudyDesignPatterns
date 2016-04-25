@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudyDesignPatterns.iml" filepath="$PROJECT_DIR$/StudyDesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adaptermodel/adaptermodel.iml" filepath="$PROJECT_DIR$/adaptermodel/adaptermodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facademodel/facademodel.iml" filepath="$PROJECT_DIR$/facademodel/facademodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
+    </modules>
+  </component>
+</project>
